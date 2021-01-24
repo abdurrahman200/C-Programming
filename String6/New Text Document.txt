@@ -1,0 +1,19 @@
+Dear Students, 
+You will have to solve as many problems as you can and prepare a lab report on the problems you have solved. You don't have to submit the codes or outputs separately, just submit the lab report.
+
+1.	Write a C Program to Find the Frequency of Characters in a String. 
+2.	Write a C Program to Reverse a Sentence. 
+3.	Write a C Program to Find the Length of a String without using library functions. 
+4.	Write a C Program to Copy a String without using library functions. 
+5.	Write a C Program to Remove all Characters in a String except alphabet. 
+
+Bonus Problem : 
+Write a C program to check if a password is valid or not. A password is valid if it meets all the following conditions - 
+a) Length >= 7
+b) It contains at least one uppercase letter
+c) It contains at least one lower case letter
+d) It contains at least one number or symbol
+
+Information for Lab Report 6 : Strings
+Topic : Strings
+Assigned problems : 5

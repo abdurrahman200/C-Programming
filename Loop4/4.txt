@@ -1,0 +1,13 @@
+Loop
+
+1.	Write a C program to print all natural numbers from 1 to n. 
+2.	Write a C program to print all alphabets from a to z. 
+3.	Write a C program to print all odd number 1 to 100. 
+4.	Write a C program to calculate sum of digits of a number. 
+5.	Write a C program to enter a number and print its digit in reverse order. 
+6. Draw a pyramid using * symbol, exercise the following patterns. 
+     * 
+   *** 
+  ***** 
+ ******* 
+********* 

@@ -1,0 +1,19 @@
+Dear Students, 
+You will have to solve as many problems as you can and prepare a lab report on the problems you have solved. You don't have to submit the codes or outputs separately, just submit the lab report.
+
+1. Write a C function to take two numbers as input and display Prime Numbers Between that Intervals.
+2. Write a C Program to Find the Sum of Natural Numbers using Recursion.
+3. Write a C program to enter any number and calculate its factorial using Recursion.
+4. Write a C function to check if a password is valid or not. A password is valid if it meets all the following conditions 
+
+	a) Length >= 7
+	b) It contains at least one uppercase letter
+	c) It contains at least one lower case letter
+	d) It contains at least one number or symbol
+
+5. Write a C program to print Fibonacci series up to n terms using Recursion.
+6. Write a C function, which takes a Decimal number as input and returns its binary representation.
+
+Information for Lab Report 7 : Functions
+Topic : Functions
+Assigned problems : 6

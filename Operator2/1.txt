@@ -1,0 +1,25 @@
+Dear Students, 
+You will have to solve as many problems as you can and prepare a lab report on the problems you have solved. You don't have to submit the codes or outputs separately, just submit the lab report.
+
+1.	Write a C program to enter two numbers and perform all arithmetic operations - +,-, *, /, %
+2.	Write a C Program to Calculate Area and Circumference of Circle 
+3.	Write a C program to enter length in centimeter and convert it into meter and kilometer. 
+4.	Write a C Program to Calculate Area of a Rectangle, take height and width as user input. 
+5.	Write a C Program to Calculate Area of a Square, take length of one side as user input. 
+6.	Write a C program to enter temperature in °Celsius and convert it into °Fahrenheit 
+7.    Write a C program to enter temperature in Fahrenheit(°F) and convert it into Celsius(°C) 
+8.    Write a C program to enter marks of five subjects and calculate total and average marks. 
+
+Bonus Problem : 
+Write down a program that will take a capital letter, and an integer number, n as input. Assume that n is a nonnegative integer.
+
+The program will print n-th letter starting  from the letter given as input (wrap around). You can not perform condition checking to  solve this problem.
+
+Input : A 2
+Output : C
+
+Input : Z 1
+Output : A
+
+Input : Z 27
+Output : A

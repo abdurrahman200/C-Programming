@@ -1,0 +1,17 @@
+Dear Students, 
+You will have to solve as many problems as you can and prepare a lab report on the problems you have solved. You don't have to submit the codes or outputs separately, just submit the lab report.
+
+For first 4 problems, take a number N as input and take N numbers as input. Then store the numbers in an array. Suppose the numbers will be within the range 1 to 50. 
+
+1.	Write a C Program to Calculate Average Using Arrays. 
+2.	Write a C Program to Find the Largest Element of an Array. 
+3.	Write a C program to count frequency of each element in an array. 
+4.	Write a C program to print all unique elements from an array, skipping 	the duplicates. 
+
+5.	Take a decimal number as input and write a C program to convert Decimal 	to Binary number system. 
+6.	Take two 3x3 matrix as input. Write a C Program to Add Two Matrix Using 	Multi-dimensional Arrays. 
+
+Information for Lab Report 5 : Arrays
+Topic : Arrays
+Assigned problems : 6 
+You report must contain a theory section, a conclusion section and a reference section

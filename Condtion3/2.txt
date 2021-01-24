@@ -1,0 +1,18 @@
+Dear Students, 
+You will have to solve as many problems as you can and prepare a lab report on the problems you have solved. You don't have to submit the codes or outputs separately, just submit the lab report.
+
+1.	Write a C program to find maximum between two numbers. 
+2.	Write a C program to check whether a number is negative, positive or zero. 
+3.	Write a C program to check whether a number is even or odd. 
+4.	Write a C program to input any alphabet and check whether it is vowel or consonant. 
+5.	Write a C program to input weekday number and print weekday name. 
+6.	Write a C program to input angles of a triangle and check whether triangle is valid or not. 
+7.	Write a C program to design a calculator with basic operations. 
+8.	Write a C program to find number of days in a month. 
+
+Information for Lab Report 3 : Conditionals - 
+Topic : If-else and switch statements. 
+Assigned problems : 8 
+Theory : Theory used for the solved problems
+Conclusions : Problems faced and new things learned while solving the problems.
+References : Link to resources which were helpful for this task.
